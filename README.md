@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@maheshbodkhepatil86](https://medium.com/@maheshbodkhepatil86)
 
-- 💬 Ask me about **Java, MySql ,Html, Css, JavScript**
+- 💬 Ask me about **Java, MySql ,Html, Css, JavaScript**
 
 - 📫 How to reach me **maheshbodkhepatil86@gmail.com**
 
